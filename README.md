@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **merl at UIT University as a Research Trainee**
 
-- 🌱 I’m currently learning **RISC-V ISA | FPGA | VLSI-ASIC DESIGN)**
+- 🌱 I’m currently learning **RISC-V ISA | FPGA | VLSI-ASIC DESIGN**
 
 - 👯 I’m looking to collaborate on **RISC-V**
 
