@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **merl at UIT University as a Research Trainee**
 
-- 🌱 I’m currently learning **RISC-V ISA | FPGA | Synthesis of RTL (process of converting RTL-verilog code to specific gate level netlist)**
+- 🌱 I’m currently learning **RISC-V ISA | FPGA | VLSI-ASIC DESIGN)**
 
 - 👯 I’m looking to collaborate on **RISC-V**
 
