@@ -1,3 +1,4 @@
+![logo](https://github.com/muhammadtalhasami/muhammadtalhasami/blob/main/banner.jpeg)
 <h1 align="center">Hi 👋, I'm Muhammad Talha</h1>
 <h3 align="center">A Passionate Computer Engineer from Pakistan</h3>
 
