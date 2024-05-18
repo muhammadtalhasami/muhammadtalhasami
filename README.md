@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Muhammad Talha</h1>
 <div align='center'>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=F7F7F7&width=420&lines=RISC-V-ENTHUSIAST+%7C+RTL-DESIGNER+%7C+FROM+🇵🇰" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=F7F7F7&width=420&lines=RISC-V+ENTHUSIAST+%7C+RTL-DESIGNER+%7C+FROM+🇵🇰" alt="Typing SVG" />
 </div>
 <img align="right" alt="micro chip" width="350" src="https://clipart-library.com/img/2091643.gif">
 
