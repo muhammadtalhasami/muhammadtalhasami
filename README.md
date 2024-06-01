@@ -123,6 +123,6 @@
 <a href="https://github.com/muhammadtalhasami">
   <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
 </a>
-<br><br>
 
-![Alt](https://repobeats.axiom.co/api/embed/d7b3477b5dc7de66d4e2ff302ea0ec7508bbb233.svg "Repobeats analytics image")
+
+![Alt](https://repobeats.axiom.co/api/embed/26cecbfb77b0e3ec7a2819b09e98c0abd59d324f.svg "Repobeats analytics image")
