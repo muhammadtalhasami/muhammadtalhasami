@@ -105,7 +105,6 @@
 ![Muhammad Talha's Graph](https://github-readme-activity-graph.vercel.app/graph?username=muhammadtalhasami&custom_title=Muhammad%20Talha's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <br><br>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <a href="https://github.com/muhammadtalhasami">
 <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
