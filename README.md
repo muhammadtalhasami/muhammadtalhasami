@@ -79,11 +79,15 @@
 <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"  />
 </a>
 <br><br>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadtalhasami&show_icons=true&theme=radical&locale=en&layout=compact" alt="muhammadtalhasami" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadtalhasami&show_icons=true&theme=radical&locale=en" alt="muhammadtalhasami" /></p>
+<p align="center">
+ <br/>
+<a href="https://github.com/muhammadtalhasami"><img align="center" width ="%" src="https://img.shields.io/github/followers/muhammadtalhasami?logo=github&logoColor=41c350&labelColor=01102d&color=blue&style=for-the-badge"></a>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadtalhasami&show_icons=true&line_height=30&rank_icon=github&show=discussions_answered&theme=algolia"  alt="muhammadtalhasami" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadtalhasami&show_icons=true&theme=radical&locale=en&layout=compact" alt="muhammadtalhasami" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadtalhasami&show_icons=true&line_height=30&rank_icon=github&show=discussions_answered&theme=algolia"  alt="muhammadtalhasami" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadtalhasami&show_icons=true&line_height=30&rank_icon=github&show=discussions_answered&theme=algolia" " alt="muhammadtalhasami" /></p>
 
 <a href="https://github.com/muhammadtalhasami">
 <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
@@ -127,3 +131,11 @@
 
 
 ![Alt](https://repobeats.axiom.co/api/embed/26cecbfb77b0e3ec7a2819b09e98c0abd59d324f.svg "Repobeats analytics image")
+
+<!--🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ -->
+<p align="center">
+<img src="https://i.imgur.com/x1KbuCq.gif" width="500">
+
+
+
+
