@@ -34,3 +34,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadtalhasami&show_icons=true&theme=radical&locale=en&layout=compact" alt="muhammadtalhasami" /></p>
 
+![Alt](https://repobeats.axiom.co/api/embed/d7b3477b5dc7de66d4e2ff302ea0ec7508bbb233.svg "Repobeats analytics image")
