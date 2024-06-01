@@ -20,8 +20,22 @@
 
 - 📫 How to reach me **muhammadtalhasami03@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<a href="https://github.com/muhammadtalhasami">
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
+</a>
+
+<h3 align="center">
+ <a href="https://github.com/muhammadtalhasami">
+<img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="left" /> 
+    </a> <a href="https://github.com/muhammadtalhasami">
+  <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right" />
+   </a> 【﻿C O N N E C T】 
+
+</h3>
+
+<a href="https://github.com/muhammadtalhasami">
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"  />
+</a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammad-talha-848005296/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammad-talha-848005296/" height="30" width="40" /></a>
 </p>
 
@@ -69,9 +83,26 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadtalhasami&show_icons=true&theme=radical&locale=en&layout=compact" alt="muhammadtalhasami" /></p>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<a href="https://github.com/muhammadtalhasami">
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
+</a>
 
-<h3 align="left">Activity:</h3>
+<h3 align="center">
+  <a href="https://github.com/muhammadtalhasami">
+    <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="left"/>
+  </a> 
+  <a href="https://github.com/muhammadtalhasami">
+    <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right"/>
+  </a> 
+  【﻿G R A P H】 
+</h3>
+
+<a href="https://github.com/muhammadtalhasami">
+  <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
+</a>
+
+<!-- Add spacing before the graph -->
+<div style="margin-bottom: 20px;"></div>
 
 ![Muhammad Talha's Graph](https://github-readme-activity-graph.vercel.app/graph?username=muhammadtalhasami&custom_title=Muhammad%20Talha's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
