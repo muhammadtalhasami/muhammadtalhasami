@@ -7,7 +7,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=F7F7F7&width=420&lines=RISC-V+ENTHUSIAST+%7C+RTL-DESIGNER+%7C+FROM+🇵🇰" alt="Typing SVG" />
 </div>
 <div align='center': style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="60" height="60" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="60" height="60" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="60" height="60" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="60" height="60" /></div>
-<br><br>
 <img align="right" alt="micro chip" width="350" src="https://clipart-library.com/img/2091643.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadtalhasami&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadtalhasami" /> </p>
