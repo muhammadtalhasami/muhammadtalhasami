@@ -9,7 +9,7 @@
 <div align='center': style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="60" height="60" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="60" height="60" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="60" height="60" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="60" height="60" /></div>
 <img align="right" alt="micro chip" width="350" src="https://clipart-library.com/img/2091643.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadtalhasami&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadtalhasami" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadtalhasami&label=Profile%20views&labelColor=01102d&icon_color=%2341C350&style=flat" alt="muhammadtalhasami" /> </p>
 
 - 🔭 I’m currently working on **merl at UIT University as a Research Trainee**
 
@@ -108,7 +108,8 @@
 </a>
 <br><br>
 
-![Muhammad Talha's Graph](https://github-readme-activity-graph.vercel.app/graph?username=muhammadtalhasami&custom_title=Muhammad%20Talha's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=0074E8&line=0074E8&point=0074E8&area_color=FFFFFF&title_color=FFFFFF&area=true)
+[![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=muhammadtalhasami&theme=react-dark&hide_border=true&area=true&bg_color=01102d&color=6eb9f2&line=41c350&point=ffffff)](https://github.com/muhammadtalhasami) </br>
+<br><br>
 
 
 <a href="https://github.com/muhammadtalhasami">
@@ -129,8 +130,18 @@
   <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
 </a>
 
+<p align="center">
+<div align="center">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadtalhasami&theme=algolia" width="100%" /> </br></br>
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muhammadtalhasami&theme=algolia" width="31%" align="left"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muhammadtalhasami&theme=algolia" width="31%" align="right" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=muhammadtalhasami&theme=algolia" width="31%" align="center" title="🦉 Night owl" />  
+</br></br>
+ </a>
 
 ![Alt](https://repobeats.axiom.co/api/embed/26cecbfb77b0e3ec7a2819b09e98c0abd59d324f.svg "Repobeats analytics image")
+
 
 <!--🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ -->
 <p align="center">
@@ -150,5 +161,6 @@
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
+
 
 
