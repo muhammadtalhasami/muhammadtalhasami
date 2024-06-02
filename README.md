@@ -185,6 +185,5 @@
 </picture>
 
 
-<h3 align="left">Achievements:</h3>
 
 
