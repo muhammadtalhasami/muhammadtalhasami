@@ -119,7 +119,7 @@
 <h3 align="center">
   <a href="https://github.com/muhammadtalhasami">
     <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="left"/>
-  </a> 
+  </a>
   <a href="https://github.com/muhammadtalhasami">
     <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right"/>
   </a> 
@@ -161,6 +161,3 @@
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
-
-
-
