@@ -109,6 +109,11 @@
 <br><br>
 
 [![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=muhammadtalhasami&theme=react-dark&hide_border=true&area=true&bg_color=01102d&color=6eb9f2&line=41c350&point=ffffff)](https://github.com/muhammadtalhasami) </br>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=muhammadtalhasami&theme=algolia" alt="arhamhashmi01" />
+  </a>
+</p>
 <br><br>
 
 
