@@ -177,3 +177,18 @@
 
 
 ![MuhammadTalhasami_snake_contribution](https://github.com/muhammadtalhasami/muhammadtalhasami/raw/main/dist/github-snake-dark.svg)
+
+## Top Open Source
+
+[![Football Management System](https://github-readme-stats.vercel.app/api/pin/?username=muhammadtalhasami&repo=Football_management_system&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=58A6FF&border_color=007eff)](https://github.com/muhammadtalhasami/Football_management_system)
+[![GitHub Profile](https://github-readme-stats.vercel.app/api/pin/?username=muhammadtalhasami&repo=muhammadtalhasami&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=58A6FF&border_color=007eff)](https://github.com/muhammadtalhasami/muhammadtalhasami)
+[![RV32I Single Cycle](https://github-readme-stats.vercel.app/api/pin/?username=muhammadtalhasami&repo=RV32I_Single_Cycle&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=58A6FF&border_color=007eff)](https://github.com/muhammadtalhasami/RV32I_Single_Cycle)
+[![SV Verilator](https://github-readme-stats.vercel.app/api/pin/?username=muhammadtalhasami&repo=sv_verilator&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=58A6FF&border_color=007eff)](https://github.com/muhammadtalhasami/sv_verilator)
+
+<p align="left">
+  <a href="https://github.com/muhammadtalhasami?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+</p>
+
+<br/>
+<hr/>
+<br/>
