@@ -189,7 +189,7 @@
 <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="left" /> 
     </a> <a href="https://github.com/muhammadtalhasami">
   <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right" />
-   </a> 【﻿P O P U L A R R E P O】 
+   </a> 【﻿P O P U L A_R R E P O】 
 
 </h3>
 
