@@ -178,10 +178,28 @@
 
 ![MuhammadTalhasami_snake_contribution](https://github.com/muhammadtalhasami/muhammadtalhasami/raw/main/dist/github-snake-dark.svg)
 
-## Top Open Source
+</br></br>
+<a href="https://github.com/muhammadtalhasami">
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"  />
+</a>
+
+
+<h3 align="center">
+ <a href="https://github.com/muhammadtalhasami">
+<img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="left" /> 
+    </a> <a href="https://github.com/muhammadtalhasami">
+  <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right" />
+   </a> 【﻿P O P U L A R R E P O】 
+
+</h3>
+
+<a href="https://github.com/muhammadtalhasami">
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"  />
+</a>
+<br><br>
 
 [![Football Management System](https://github-readme-stats.vercel.app/api/pin/?username=muhammadtalhasami&repo=Football_management_system&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=58A6FF&border_color=007eff)](https://github.com/muhammadtalhasami/Football_management_system)
-[![GitHub Profile](https://github-readme-stats.vercel.app/api/pin/?username=muhammadtalhasami&repo=muhammadtalhasami&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=58A6FF&border_color=007eff)](https://github.com/muhammadtalhasami/muhammadtalhasami)
+[![Muhammad Talha Sami Github readme](https://github-readme-stats.vercel.app/api/pin/?username=muhammadtalhasami&repo=muhammadtalhasami&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=58A6FF&border_color=007eff)](https://github.com/muhammadtalhasami/muhammadtalhasami)
 [![RV32I Single Cycle](https://github-readme-stats.vercel.app/api/pin/?username=muhammadtalhasami&repo=RV32I_Single_Cycle&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=58A6FF&border_color=007eff)](https://github.com/muhammadtalhasami/RV32I_Single_Cycle)
 [![SV Verilator](https://github-readme-stats.vercel.app/api/pin/?username=muhammadtalhasami&repo=sv_verilator&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=58A6FF&border_color=007eff)](https://github.com/muhammadtalhasami/sv_verilator)
 
