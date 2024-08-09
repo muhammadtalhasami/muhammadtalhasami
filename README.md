@@ -13,9 +13,9 @@
 
 - 🔭 I’m currently working on **merl at UIT University as a Research Trainee**
 
-- 🌱 I’m currently learning **RISC-V ISA | FPGA | VLSI-ASIC DESIGN**
+- 🌱 I’m currently learning ** Boot-linux | FPGA Tang Nano 9k**
 
-- 👯 I’m looking to collaborate on **RISC-V**
+- 👯 I’m looking to collaborate on **RISC-V & OpenHW*
 
 - 👨‍💻 All of my projects are available on at [https://github.com/muhammadtalhasami](https://github.com/muhammadtalhasami)
 
